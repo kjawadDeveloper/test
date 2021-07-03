@@ -1,0 +1,11 @@
+String explorerAppBarText = "Explorer";
+String searchFieldHint = "Senior Porject Manager, London";
+String findJobsTab = "Find Jobs";
+String helpOthersTab = "Help Others";
+String findCandidatesTab = "Find Candidates";
+String homeTagLine = "Help Friends and get Paid";
+String homeMenu = "Home";
+String exploredMenu = "Explorer";
+String netMenu = "Net of Nets";
+String activityMenu = "Activity";
+String postMenu = "Post a Job";
